@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+font-size: 22px;
+margin-top: 50px;
+color: red;
+}
+.jaxxie
+{
+  width: 100px;
+  height: auto;
+}
